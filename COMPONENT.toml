@@ -3,7 +3,7 @@ name = "SigmaOS-asp-rs"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "asp-rs component"
+description = "SigmaOS SigmaOS-asp-rs component"
 upstream = []
 
 [contract]
